@@ -54,7 +54,7 @@ height="85px"/>
 <br>
 
 
-📝 I will be bloging about my learnings on <a href="www.codepoco.com">codepoco.com </a>, a Rails app I designed and developed to store and keep up my learning progress
+📝 I will be bloging about my learnings on <a href="https://medium.com/@LovingLinda">codepoco.com </a>, a Rails app I designed and developed to store and keep up my learning progress
 
 <br>
 <!-- ### 🌊 See my portfolio lucias.work -->
