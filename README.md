@@ -7,7 +7,7 @@
  
  💻 I'm excited about the power of code and the possibilities it brings for transforming ideas into reality
  
- 🌱 I'm currently learning Rspec and React 
+ 🌱 I'm currently learning Rspec 
  
  :european_union:  I'm originally from Slovakia, but currently based between Copenhagen and Barcelona. 
  
