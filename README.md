@@ -7,8 +7,6 @@
  
  💻 I'm excited about the power of code and the possibilities it brings for transforming ideas into reality
  
- 🌱 I'm currently learning Rspec 
- 
  :european_union:  I'm originally from Slovakia, but currently based between Copenhagen and Barcelona. 
  
  🐶 Linda's human, the one who always has dog food in the pockets
@@ -54,7 +52,7 @@ height="85px"/>
 <br>
 
 
-📝 I will be bloging about my learnings on <a href="https://medium.com/@codepoco">codepoco.com </a>, a Rails app I designed and developed to store and keep up my learning progress
+📝 I will be bloging about my learnings on <a href="https://medium.com/@zhiva.tech">medium</a>, 
 
 <br>
-<!-- ### 🌊 See my portfolio lucias.work -->
+<!-- ### 🌊 See my portfolio blackfisk.studio -->
